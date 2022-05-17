@@ -1,1 +1,1 @@
-# -django-etude-02
+# django-etude-02
