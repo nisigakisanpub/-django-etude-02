@@ -1,0 +1,1 @@
+# -django-etude-02
